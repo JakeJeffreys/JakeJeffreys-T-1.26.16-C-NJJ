@@ -1,6 +1,11 @@
 # JakeJeffreys-T-1.26.16-C-NJJ
 TrueCar Testing Exercise
 
+# Installations Needed
+- Ruby
+- Rubygems
+- Watir (In terminal: gem install watir-webdriver)
+
 # Instructions (For Mac)
 - Clone repo
 - Open terminal, navigate to test file

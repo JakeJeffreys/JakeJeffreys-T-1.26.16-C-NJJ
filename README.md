@@ -15,7 +15,7 @@ TrueCar Testing Exercise
   - To use firefox, add 'firefox' as a parameter: "ruby practice_tests.rb firefox"
 
 # Test Cases To Be Implemented
-- Test what happens when use continues to press "Show more results" button. (Is there an end?)
+- Test what happens when user continues to press "Show more results" button. (Is there an end?)
 - Test to see if links from each page will open the correct articles.
 - Ensure images, descriptions, dates, and categories continue to show up.
 
